@@ -13,17 +13,22 @@
   max-width: 100%;
   margin: 0 auto;
   border-bottom: 4px solid #ffffff;
+  background-color: rgb(71, 60, 60);
+  
 }
 .navbar h1 {
   color: #f1356d;
 }
 .navbar .links {
   margin-left: auto;
+  color: #ffffff;
+  
 }
 .navbar a {
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
+  color: #ffffff;
 }
 .navbar a:hover {
   color: #f1356d;
